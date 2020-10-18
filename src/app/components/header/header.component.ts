@@ -40,6 +40,10 @@ export class HeaderComponent implements OnInit {
         this.actualLanguage = "Français";
         break;
       }
+      case "ki": {
+        this.actualLanguage = "Kirundi";
+        break;
+      }
     }
   }
 
