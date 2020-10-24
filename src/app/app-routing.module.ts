@@ -2,6 +2,9 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './components/home/home.component';
 import { AboutUsComponent } from './components/about-us/about-us.component';
+import { JoinUsComponent } from './components/join-us/join-us.component';
+import { ExploreProjectsComponent } from './components/explore-projects/explore-projects.component';
+import { MoreInformationComponent } from './components/more-information/more-information.component';
 
 
 const routes: Routes = [
@@ -12,6 +15,18 @@ const routes: Routes = [
   {
     path: 'aboutUs',
     component: AboutUsComponent
+  },
+  {
+    path: 'joinUs',
+    component: JoinUsComponent
+  },
+  {
+    path: 'exploreProjects',
+    component: ExploreProjectsComponent
+  },
+  {
+    path: 'moreInformation',
+    component: MoreInformationComponent
   },
   {
     path: '', redirectTo: 'home',
