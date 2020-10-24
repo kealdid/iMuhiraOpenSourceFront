@@ -11,6 +11,9 @@ import { HomeComponent } from './components/home/home.component';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
 import { TranslateModule, TranslateLoader, TranslateService } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { JoinUsComponent } from './components/join-us/join-us.component';
+import { ExploreProjectsComponent } from './components/explore-projects/explore-projects.component';
+import { MoreInformationComponent } from './components/more-information/more-information.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient, './assets/i18n/', '.json');
@@ -22,7 +25,10 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     AboutUsComponent,
     HeaderComponent,
     FooterComponent,
-    HomeComponent
+    HomeComponent,
+    JoinUsComponent,
+    ExploreProjectsComponent,
+    MoreInformationComponent
   ],
   imports: [
     BrowserModule,
