@@ -1,12 +1,16 @@
 {
     "header.about.us":"About us",
 
-    "home.title.1":"Programme de collaboration open source pour le Burundi.",
-    "home.title.2":"Nous contribuons au partage du progrès technologique au Burundi.",
-    "home.join":"Nous rejoindre",
-    "home.explore.project":"Explorer nos projets",
-    "home.more.information":"Plus d'informations sur notre charte",
+
+    "home.title.1":"Open source collaboration program for Burundi.",
+    "home.title.2":"We contribute to the technological progress in Burundi.",
+    "home.join":"Join us",
+    "home.explore.project":"Our projects",
+    "home.more.information":"More information",
     "aboutUs.title.1":"About Us",
 
-    "footer.rights":"Property of"
+
+    "footer.rights":"Property of",
+
+    "pending.development":"Pending development .."
 }
