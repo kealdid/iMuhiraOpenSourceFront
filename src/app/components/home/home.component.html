@@ -1,30 +1,21 @@
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <br><br><br>
-      <h1>
+<div class="container" id="homeCoponent">
+  <div>
+    <p class="text-center">
+      <img id="iMuhiraOpenSourceLogoId" src="./assets/images/logos/iMuhiraOpenSourceLogo4.png"
+        class="img-fluid rounded mx-auto d-block" alt="iMuhiraOpenSourceLogo.PNG">
         {{ 'home.title.1' | translate }}
-      </h1>
-      <br><br><br>
-      <h4>
-        {{ 'home.title.2' | translate }}
-      </h4>
-      <br><br><br>
-      <h6>
-        <a routerLink="/joinUs" class="badge badge-primary">{{ 'home.join' | translate }}</a>
-      </h6>
-      <h6>
-        <a routerLink="/exploreProjects" class="badge badge-primary">{{ 'home.explore.project' | translate }}</a>
-      </h6>
-      <h6>
-        <a routerLink="/moreInformation" class="badge badge-primary">{{ 'home.more.information' | translate }}</a>
-      </h6>
-    </div>
-    <div class="col-sm">
-      <p>
-        <img id="iMuhiraOpenSourceLogoId" src="./assets/images/iMuhiraOpenSourceLogo1.png" class="img-fluid rounded mx-auto d-block"
-          alt="iMuhiraOpenSourceLogo.PNG">
-      </p>
+    </p>
+    <br>
+    <br>
+    <br>
+    <div class="row text-center">
+      <div class="col-sm">
+        <a routerLink="/joinUs" class="btn btn-outline-primary">{{ 'home.join' | translate }}</a>
+      </div>
+      <div class="col-sm">
+        <a routerLink="/exploreProjects" class="btn btn-outline-primary">{{ 'home.explore.project' | translate }}</a></div>
+      <div class="col-sm">
+        <a routerLink="/moreInformation" class="btn btn-outline-primary">{{ 'home.more.information' | translate }}</a></div>
     </div>
   </div>
 </div>
