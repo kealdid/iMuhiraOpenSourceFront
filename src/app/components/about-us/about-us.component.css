@@ -5,6 +5,17 @@
  .text-imuhira{
    color:#c45911;
  }
+
+ .row-imuhira {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.jumbotron-imuhira{
+  position: relative;
+  top: -200px!important;
+}
 .jumbotron{
   background-color: #fff!important;
 }
