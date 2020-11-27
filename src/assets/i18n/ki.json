@@ -3,11 +3,27 @@
 
     "home.title.1":"Une plateforme de collaboration pour la promotion du logiciel libre et une transformation digitale effective.",
     "home.title.2":"Nous contribuons au progrès technologique au Burundi.",
-    "home.join":"Nous rejoindre",
-    "home.explore.project":"Nos projets",
-    "home.more.information":"Plus d'informations",
+    "header.join.us":"Nous rejoindre",
+    "header.our.projects":"Nos projets",
+    "header.more.information":"Plus d'informations",
 
     "footer.rights":"Propriété de",
 
-    "pending.development":"Turacari mu bikorwa .."
-}
+    "pending.development":"Turacari mu bikorwa ..",
+
+    "more.information.introduction":"Nous tenons à vous remercier pour l'intérêt que vous portez à notre projet. Nous voulons aussi vous donner quelques informations concernant notre mode opérationnel, le financement ainsi que la licence de nos applications:",
+    "more.information.introduction.1":"Nous contribuons au développement d’applications open source",
+    "more.information.introduction.2":"Une fois la solution conçue/développée, son code source est rendu disponible pour le public avec une démonstration",
+    "more.information.introduction.3":"La solution est proposée ou présentée par un membre de la communauté",
+    "more.information.introduction.4":"L’entité intéressée par le logiciel doit supporter le coût des déploiements et des tests de la solution",
+    "more.information.introduction.5":"En cas de besoin d’assistance par la communauté, l’entité intéressée par le produit supportera les différents coûts",
+    "more.information.introduction.5.1":"Déplacement d’un membre de la communauté",
+    "more.information.introduction.5.2":"Prise d’une journée professionnelle par un membre de la communauté",
+    "more.information.introduction.5.3":"Etc.",
+    "more.information.introduction.6":"En cas de besoin de financement, nous recourrons au financement participatif",
+    "more.information.introduction.7":"Les licences de nos applications sont ouvertes :",
+    "more.information.introduction.7.1":"Un membre ou une autre entité peut apporter des améliorations à son propre compte",
+    "more.information.introduction.7.2":"Nous gardons nos applications et continuons à les améliorer",
+    "more.information.introduction.7.3":"Lors de son départ, un apporteur d’idée laissera l’application à la communauté",
+    "more.information.introduction.7.4":"Un apporteur d’idée peut partir et continuer à faire des améliorations sur sa version d’application"
+  }
