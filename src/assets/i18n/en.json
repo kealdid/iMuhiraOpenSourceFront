@@ -4,13 +4,28 @@
 
     "home.title.1":"A collaboration platform for the promotion of free software and effective digital transformation.",
     "home.title.2":"We contribute to the technological progress in Burundi.",
-    "home.join":"Join us",
-    "home.explore.project":"Our projects",
-    "home.more.information":"More information",
+    "header.join.us":"Join us",
+    "header.our.projects":"Our projects",
+    "header.more.information":"More information",
     "aboutUs.title.1":"About Us",
-
 
     "footer.rights":"Property of",
 
-    "pending.development":"Pending development .."
+    "pending.development":"Pending development ..",
+
+    "more.information.introduction": "We would like to thank you for your interest in our project. We also want to give you some information about our operational mode, funding and applications licensing",
+    "more.information.introduction.1": "We contribute to the development of open source applications",
+    "more.information.introduction.2": "Once the solution has been designed and developed, its source code is made available to the public with a demonstration",
+    "more.information.introduction.3": "The solution is proposed or presented by a member of the community",
+    "more.information.introduction.4": "The entity interested in the software must bear the cost of deploying and testing the solution",
+    "more.information.introduction.5": "If assistance is needed by the community, the entity interested in the product will fund the various costs",
+    "more.information.introduction.5.1": "Relocation of a community member",
+    "more.information.introduction.5.2": "Taking of a professional day by a member of the community",
+    "more.information.introduction.5.3": "Etc.",
+    "more.information.introduction.6": "In case of financing need, we will resort to crowdfunding",
+    "more.information.introduction.7": "The licenses of our applications are open:",
+    "more.information.introduction.7.1": "A member or other entity may make improvements to its own account",
+    "more.information.introduction.7.2": "We keep our applications and continue to improve them",
+    "more.information.introduction.7.3": "When leaving, an idea provider will leave the application to the community",
+    "more.information.introduction.7.4": "An idea provider can go away and continue to make improvements on their application version"
 }
